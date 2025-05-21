@@ -33,6 +33,7 @@ Recent M.S. graduate in Electrical and Computer Engineering from USC, specializi
 
 ## Portfolio & Contact
 
+- **Google Scholar**: [https://scholar.google.com/citations?user=KkwtnvwAAAAJ&hl=en](https://scholar.google.com/citations?user=KkwtnvwAAAAJ&hl=en)
 - **Portfolio**: [https://sites.google.com/usc.edu/shyamsunder/home](https://sites.google.com/usc.edu/shyamsunder/home)
 - **LinkedIn**: [linkedin.com/in/rshyamsunder](https://www.linkedin.com/in/rshyamsunder)
 - **GitHub**: [github.com/ShyamSundR](https://github.com/ShyamSundR)
